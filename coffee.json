@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Americano",
+        "price": 5.99,
+        "image": "americano"
+    },
+    {
+        "id": 2,
+        "name": "Cappuccino",
+        "price": 6.49,
+        "image": "cappuccino"
+    },
+    {
+        "id": 3,
+        "name": "Latte",
+        "price": 4.99,
+        "image": "latte"
+    },
+    {
+        "id": 4,
+        "name": "Flat White",
+        "price": 5.49,
+        "image": "flatwhite"
+    },
+    {
+        "id": 5,
+        "name": "Raf",
+        "price": 6.99,
+        "image": "raf"
+    },
+    {
+        "id": 6,
+        "name": "Espresso",
+        "price": 5.79,
+        "image": "espresso"
+    }
+]
